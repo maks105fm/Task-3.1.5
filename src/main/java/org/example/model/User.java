@@ -1,4 +1,4 @@
-package com.example.task315.model;
+package org.example.model;
 
 public class User {
     private Long id;
